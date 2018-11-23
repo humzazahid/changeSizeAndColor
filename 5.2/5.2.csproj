@@ -7,8 +7,8 @@
     <ProjectGuid>{B18F62E0-C516-42CA-B079-3E18432EDC74}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>_5._2</RootNamespace>
-    <AssemblyName>5.2</AssemblyName>
+    <RootNamespace>changeSizeAndColor</RootNamespace>
+    <AssemblyName>changeSizeAndColor</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -63,6 +63,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
